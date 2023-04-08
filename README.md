@@ -4,7 +4,7 @@
 
 To use it, first clone this repo in `todo.txt` in your `$ZSH_CUSTOM/plugins` folder (default to `~/.oh-my-zsh/custom` :
 ```zsh
-$ git clone https://github.com/Neluji/omz-todotxt ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/todo.txt
+git clone https://github.com/Neluji/omz-todotxt ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/todo.txt
 ```
 Then add `todo.txt` to the plugins array in your zshrc file:
 
