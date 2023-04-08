@@ -19,8 +19,8 @@ plugins=(... todo.txt)
 | `todo`   | `todo.sh`                    | Short for the tool                     |
 | `todoa`  | `todo add <item-text>`       | Adds a new item                        |
 | `todod`  | `todo do <item>`             | Marks an item as done                  |
-| `todor`  | custom                       | Removes one or more item(s)            |
+| `todor`  | *custom*                     | Removes one or more item(s)            |
 | `todol`  | `todo listpri`               | Lists all items, sorted by priority    |
 | `todolp` | `todo listproj`              | Lists projects                         |
 | `todop`  | `todo pri <item> <priority>` | Prioritizes an item                    |
-| `todostx`| custom                       | Prints a reminder on todo.txt's syntax |
+| `todostx`| *custom*                     | Prints a reminder on todo.txt's syntax |
